@@ -1,0 +1,10 @@
+
+# Ignore all Tor browser files
+*
+
+# Except ones part of the project
+!.gitignore
+!LICENSE
+!README.md
+!Browser/firefox.cfg
+!Browser/defaults/pref/autoconfig.js
