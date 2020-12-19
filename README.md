@@ -15,7 +15,7 @@ You should probably rename any shortcuts with "Tor (No Tunneling)" as a courtesy
 
 These are all temporary changes of course, so if you ever want to start tunneling again you just need to move/rename the mentioned files and restart the browser.
 
-Test out your fingerprint! I personally test using [Cover Your Tracks by the EFF](https://coveryourtracks.eff.org/). This is especially important if customize your browser in any way. Toolbar density, installing new extensions, even aero-snapping your browser to half size in Windows gave me a unique fingerprint.
+Test out your fingerprint! I personally test using [Cover Your Tracks by the EFF](https://coveryourtracks.eff.org/). This is especially important if you customize your browser in any way. Toolbar density, installing new extensions, even aero-snapping your browser to half size in Windows gave me a unique fingerprint.
 
 As of now, I use normal density, [uBlock Origin](https://ublockorigin.com/), and maximise the window with letterboxing on and do not have a unique fingerprint.
 
